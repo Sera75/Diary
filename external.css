@@ -1,0 +1,35 @@
+.header {
+  padding: 100px; 
+  text-align: center; 
+  background-image: url('1.jpg');
+  color: black; 
+}
+
+
+.header h1 {
+  font-size: 45px;
+}
+
+
+#tb {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#tb td, #tb th {
+  border: 2px solid;
+  padding: 10px;
+}
+#tb tr:nth-child(even){background-color: white;}
+
+#tb tr:hover {background-color: white;}
+
+#tb th {
+  border: 2px solid;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: blue;
+  color: black;
+}

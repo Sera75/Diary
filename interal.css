@@ -1,0 +1,37 @@
+.header {
+  padding: 80px; 
+  text-align: center; 
+  background: Purple; 
+  color: white; 
+}
+
+
+.header h1 {
+  font-size: 45px;
+}
+
+.body {
+	
+}
+
+#tb {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#tb td, #tb th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+#tb tr:nth-child(even){background-color: pink;}
+
+#tb tr:hover {background-color: black;}
+
+#tb th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: orange ;
+  color: white;
+}
