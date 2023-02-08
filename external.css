@@ -2,7 +2,7 @@
   padding: 100px; 
   text-align: center; 
   background-image: url('1.jpg');
-  color: black; 
+  color: green; 
 }
 
 
@@ -31,5 +31,5 @@
   padding-bottom: 12px;
   text-align: left;
   background-color: blue;
-  color: black;
+  color: yellow;
 }
